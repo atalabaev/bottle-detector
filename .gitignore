@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+runs/
+out/
+snapshots/
+detection_log.csv
+*.jpg
+*.png
+models/*.pt
